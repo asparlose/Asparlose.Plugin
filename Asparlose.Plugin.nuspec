@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Asparlose</authors>
+    <owners>Asparlose</owners>
+    <licenseUrl>https://opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://asparlose.github.io/Asparlose.Plugin/</projectUrl>
+    <iconUrl>http://asparlose.github.io/Asparlose.Plugin/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Plugin utility</description>
+    <copyright>Copyright 2018 Asparlose</copyright>
+  </metadata>
+</package>

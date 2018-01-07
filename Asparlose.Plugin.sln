@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asparlose.Plugin", "Asparlo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25265A40-6D75-494F-AEB1-D636014CCE68}"
 	ProjectSection(SolutionItems) = preProject
+		Asparlose.Plugin.nuspec = Asparlose.Plugin.nuspec
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
